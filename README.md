@@ -7,7 +7,7 @@
 
 - 💻 Currently exploring DevOps: **Jenkins, Terraform, Ansible, AWS**
 - 🛠️ Building CI/CD pipelines and automating cloud infrastructure
-- 📫 Reach me at: [your_email@example.com](mailto:harshpatel23082004@gmail.com)
+- 📫 Reach me at: [harshpatel.com](mailto:harshpatel23082004@gmail.com)
 - 🌱 Currently learning: **System Design, Kubernetes**
 
 ---
